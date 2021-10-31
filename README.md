@@ -1,0 +1,2 @@
+# Weather-Report
+As we know python is the most popular programming language,I developed a python based project which will use just python modules to display the current-weather information of a city in a GUI box. By using API technology it shows accurate weather information like temperature, wind speed, humidity etc.. ,when we enter a city name and it also alerts the person by sending an email if the input city is under rain or thunderstrom.
